@@ -1,4 +1,4 @@
-## Insert node_modules files by yourself or run ### `yarn start`
+## Insert node_modules files by yourself or run`yarn start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
